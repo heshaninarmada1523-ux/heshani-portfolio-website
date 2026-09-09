@@ -1,24 +1,24 @@
-# Ascend Digital Portfolios
+Heshani Narmada - Personal Portfolio
 
-Create a modern, professional personal portfolio website for a university student and aspiring IT/business professional.
+Welcome to my personal portfolio repository. This website showcases my projects, technical skills, and experience.
 
-This project was built with [Lovable](https://lovable.dev).
+Live Website:heshaninarmada.space
 
-## Build with Lovable
+About Me
+I am an undergraduate student passionate about business and technology. I specialize in web development, enterprise systems, and user-centered design to create functional and user-friendly digital experiences.
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/41384f57-442b-4de3-8c15-185741fc24f2).
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
+Technologies used
 
-## Development
+Frontend: React, HTML5, CSS3, JavaScript, Tailwind CSS
+Design and Strategy: UX/UI Design, Empathy Mapping, Wireframing
+Tools and Hosting: Git, GitHub, Netlify, Hostinger
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+Featured Projects
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
+Personal Portfolio Website
+Japura Events Management System
+Statistics Problem Solving Software
+
+
+
