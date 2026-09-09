@@ -12,13 +12,17 @@ I am an undergraduate student passionate about business and technology. I specia
 Technologies used
 
 Frontend: React, HTML5, CSS3, JavaScript, Tailwind CSS
+
 Design and Strategy: UX/UI Design, Empathy Mapping, Wireframing
+
 Tools and Hosting: Git, GitHub, Netlify, Hostinger
 
 Featured Projects
 
 Personal Portfolio Website
+
 Japura Events Management System
+
 Statistics Problem Solving Software
 
 
