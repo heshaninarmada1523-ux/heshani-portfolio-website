@@ -36,7 +36,7 @@ export function Hero() {
               </a>
             </Button>
             <Button variant="outlineGlow" size="xl" asChild>
-              <a href="/P.A.D.HESHANI%20NARMADA%20RANAWEERA%20CV.pdf" download="P.A.D.HESHANI NARMADA RANAWEERA CV.pdf">
+              <a href="/PADHESHANI%20NARMADA%20RANAWEERA%20CV.pdf" download="PADHESHANINARMADARANAWEERACV.pdf">
                 <Download className="size-4" /> Download CV
               </a>
             </Button>
